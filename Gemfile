@@ -49,6 +49,7 @@ group :development do
 end
 
 group :test do
+  gem 'webrat'
   gem 'rspec'
 end
 
